@@ -1,2 +1,3 @@
 figma: https://www.figma.com/design/1AL9FkPV5ZoD0lC2TKSLQH/HTML-Developer-Assignment-New?node-id=21001-8&t=pIHKKpxRjcC2684U-0
 doc: https://docs.google.com/document/d/1MxF0_XxsHXR897r1v_12sSGjvZSlWMRzbsTOmxbESfc/edit?tab=t.0#heading=h.tbss99ycdzgl
+finished_url: https://cube-assignment-sooty.vercel.app/
