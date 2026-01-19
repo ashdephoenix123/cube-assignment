@@ -1205,3 +1205,13 @@ h1 {
     height: 40rem;
   }
 }
+
+/* Applies to all text on the website */
+::selection {
+  background: transparent;
+}
+
+/* For Firefox compatibility (older versions) */
+::-moz-selection {
+  background: transparent;
+}
